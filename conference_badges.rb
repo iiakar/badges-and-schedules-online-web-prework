@@ -7,7 +7,7 @@ return "Hello, my name is _____."
 
 def batch_badge_creator(names)
   names.collect do |name|
-    badge_maker
+    badge_maker(name)
 
 
 assign_rooms
