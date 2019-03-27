@@ -18,7 +18,7 @@ def assign_rooms(speakers)
 end
 
 def printer(attendees) 
-  batch_badge_creator
+  batch_badge_creator(attendees)
 
 
 You have rooms 1-7.
