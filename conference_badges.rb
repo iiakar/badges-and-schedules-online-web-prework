@@ -23,7 +23,7 @@ def printer(attendees)
 end 
 
 assign_rooms(attendees).each do |attendee|
-  
+  puts attendee
 
 
 You have rooms 1-7.
