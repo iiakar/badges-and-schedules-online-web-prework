@@ -10,7 +10,7 @@ def batch_badge_creator(names)
     badge_maker(name)
 
 
-assign_rooms
+def assign_rooms(speakers)
 
 You have rooms 1-7.
 
