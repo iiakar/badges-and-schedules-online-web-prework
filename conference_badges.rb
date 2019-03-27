@@ -6,7 +6,7 @@ badge_maker ("Arel")
 return "Hello, my name is _____." 
 
 def batch_badge_creator(names)
-  names.collect do |
+  names.collect do |name|
 
 
 assign_rooms
