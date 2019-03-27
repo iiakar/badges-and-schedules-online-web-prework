@@ -4,3 +4,5 @@ end
 badge_maker ("Arel")
 
 "Hello, my name is _____." 
+
+batch_badge_creator
