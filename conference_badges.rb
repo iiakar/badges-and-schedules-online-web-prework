@@ -12,6 +12,7 @@ def batch_badge_creator(names)
 
 def assign_rooms(speakers)
   speakers.collect.each_with_index do |speaker,index|
+    "Hello, "
 
 You have rooms 1-7.
 
