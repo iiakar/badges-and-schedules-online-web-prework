@@ -24,6 +24,9 @@ end
 
 assign_rooms(attendees).each do |attendee|
   puts attendee
+end 
+
+
 
 
 You have rooms 1-7.
