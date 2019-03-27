@@ -17,7 +17,7 @@ def assign_rooms(speakers)
     end 
 end
 
-def print 
+def printer(attendees) 
 
 
 You have rooms 1-7.
