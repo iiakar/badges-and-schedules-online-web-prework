@@ -14,6 +14,9 @@ def assign_rooms(speakers)
   speakers.collect.each_with_index do |speaker,index|
     "Hello, #{speaker}"! 
     You will be assigned to rooms #{index+1}!""
+    end 
+end
+
 
 You have rooms 1-7.
 
