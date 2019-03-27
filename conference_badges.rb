@@ -17,6 +17,8 @@ def assign_rooms(speakers)
     end 
 end
 
+def print 
+
 
 You have rooms 1-7.
 
