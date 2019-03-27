@@ -1,1 +1,3 @@
-def 
+def conference_badges 
+end 
+
