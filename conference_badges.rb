@@ -5,7 +5,7 @@ badge_maker ("Arel")
 
 return "Hello, my name is _____." 
 
-def batch_badge_creator
+def batch_badge_creator(names)
 
 
 assign_rooms
