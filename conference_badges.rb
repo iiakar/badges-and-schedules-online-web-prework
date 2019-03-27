@@ -11,7 +11,7 @@ def batch_badge_creator(names)
 
 
 def assign_rooms(speakers)
-  speakers
+  speakers.collect.
 
 You have rooms 1-7.
 
